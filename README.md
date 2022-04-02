@@ -1,11 +1,10 @@
 # causality study
 ---
-- self study
 
 ### Index
 - [Lecture](#lecture)
 - [Paper Read](#paper-read)
-- [Application](#application)
+- [Applied Project](#applied-project)
 - [Resource](#resource)
 
 # Lecture
@@ -44,6 +43,11 @@
 
 # Paper Read
 
-# Application
+# Applied Project
+- DoWhy
+- uplift
 
 # Resource
+- [Brady Neal - Causal Inference](https://www.youtube.com/c/BradyNealCausalInference/playlists)
+- [인과추론의 데이터과학](https://www.youtube.com/c/%EC%9D%B8%EA%B3%BC%EC%B6%94%EB%A1%A0%EC%9D%98%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B3%BC%ED%95%99/playlists)
+- [EconML/CausalML KDD 2021 Tutorial](https://causal-machine-learning.github.io/kdd2021-tutorial/)
