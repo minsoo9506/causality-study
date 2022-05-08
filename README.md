@@ -45,10 +45,12 @@
 # Paper Read
 <details>
     <summary>Heterogeneous treatment effect estimation, uplift</summary>
+
 - (to read, Double machine learning) Double machine learning for treatment and causal parameters (2016)
 - (to read, metalearner) Metalearners for estimation heterogeneous treatment effects using machine learning (2019)
 - (to read, tree model) Estimation and Inference of Heterogeneous Treatment Effects using Random Forests
 - (to read, balanced representation learning) Estimation individual treatment effect: generalization bounds and algorithms (2018)
+
 </details>
 
 # Applied Project
