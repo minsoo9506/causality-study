@@ -2,12 +2,12 @@
 ---
 
 ### Index
-- [Lecture](#lecture)
+- [Lecture, Book](#lecture-book)
 - [Paper Read](#paper-read)
 - [Applied Project](#applied-project)
 - [Resource](#resource)
 
-# Lecture
+# Lecture, Book
 <details>
     <summary>Brady Neal - Causal Inference</summary>
 
@@ -42,6 +42,12 @@
 
 </details>
 
+<details>
+    <summary>Causal Inference for the Brave and True</summary>
+
+- 01 Introduction to Causality
+</details>
+
 # Paper Read
 <details>
     <summary>Heterogeneous treatment effect estimation, uplift</summary>
@@ -54,10 +60,12 @@
 </details>
 
 # Applied Project
-- DoWhy tutorial
-- Heterogeneous treatment effect estimation tutorial
+- [DoWhy tutorial](Applied%20Project/DoWhy)
+- [Heterogeneous treatment effect estimation tutorial](Applied%20Project/Heterogeneous_treatment_effect_estimation)
+- Causal Inference for the Brave and True
 
 # Resource
 - [Brady Neal - Causal Inference](https://www.youtube.com/c/BradyNealCausalInference/playlists)
 - [인과추론의 데이터과학](https://www.youtube.com/c/%EC%9D%B8%EA%B3%BC%EC%B6%94%EB%A1%A0%EC%9D%98%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B3%BC%ED%95%99/playlists)
 - [EconML/CausalML KDD 2021 Tutorial](https://causal-machine-learning.github.io/kdd2021-tutorial/)
+- [Causal Inference for the Brave and True](https://matheusfacure.github.io/python-causality-handbook/01-Introduction-To-Causality.html)
