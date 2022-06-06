@@ -46,6 +46,9 @@
     <summary>Causal Inference for the Brave and True</summary>
 
 - 01 Introduction to Causality
+- 02 Randomized Experiments
+- 03 Stats review
+- 04 Graphical Causal Models
 </details>
 
 # Paper Read
