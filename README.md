@@ -65,7 +65,7 @@
 # Applied Project
 - [DoWhy tutorial](Applied%20Project/DoWhy)
 - [Heterogeneous treatment effect estimation tutorial](Applied%20Project/Heterogeneous_treatment_effect_estimation)
-- Causal Inference for the Brave and True
+- [Uplift modeling practice](https://github.com/minsoo9506/uplift)
 
 # Resource
 - [Brady Neal - Causal Inference](https://www.youtube.com/c/BradyNealCausalInference/playlists)
