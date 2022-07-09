@@ -49,6 +49,11 @@
 - 02 Randomized Experiments
 - 03 Stats review
 - 04 Graphical Causal Models
+- 05 The Unreasonable Effectiveness of Linear Regression
+- 06 Grouped and Dummy Regression
+- 07 Beyond Confounders
+- 08 Instrumental Variables
+
 </details>
 
 # Paper Read
