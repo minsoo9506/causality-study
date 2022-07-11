@@ -64,6 +64,13 @@
 - (to read, metalearner) Metalearners for estimation heterogeneous treatment effects using machine learning (2019)
 - (to read, tree model) Estimation and Inference of Heterogeneous Treatment Effects using Random Forests
 - (to read, balanced representation learning) Estimation individual treatment effect: generalization bounds and algorithms (2018)
+</details>
+
+<details>
+    <summary>causal inference</summary>
+
+- (to read) [Selection on Observed and Unobserved Variables: Assessing the Effectiveness of Catholic Schools](https://www.ssc.wisc.edu/~ctaber/Papers/aet.pdf)
+  - observable confounder만 사용하는 방법 (regression, matching, weighting)의 경우 검증을 하는게 좋다
 
 </details>
 
