@@ -53,8 +53,13 @@
 - 06 Grouped and Dummy Regression
 - 07 Beyond Confounders
 - 08 Instrumental Variables
+- 09 Non Compliance and LATE
+- 10 Matching
+- 11 Propensity Score
 
 </details>
+
+- Korea Summer Workshop on Causal Inference 2022 (Bootcamp시리즈)
 
 # Paper Read
 <details>
