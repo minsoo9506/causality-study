@@ -56,10 +56,15 @@
 - 09 Non Compliance and LATE
 - 10 Matching
 - 11 Propensity Score
+- 12 Doubly Robust Estimaion
 
 </details>
 
-- Korea Summer Workshop on Causal Inference 2022 (Bootcamp시리즈)
+<details>
+    <summary>Korea Summer Workshop on Causal Inference 2022 (Bootcamp시리즈)</summary>
+</details>
+
+![method_summary](./method_summary.png)
 
 # Paper Read
 <details>
@@ -89,3 +94,4 @@
 - [인과추론의 데이터과학](https://www.youtube.com/c/%EC%9D%B8%EA%B3%BC%EC%B6%94%EB%A1%A0%EC%9D%98%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B3%BC%ED%95%99/playlists)
 - [EconML/CausalML KDD 2021 Tutorial](https://causal-machine-learning.github.io/kdd2021-tutorial/)
 - [Causal Inference for the Brave and True](https://matheusfacure.github.io/python-causality-handbook/01-Introduction-To-Causality.html)
+- [Dowhy 가이드 실습 pap gitbook](https://playinpap.gitbook.io/dowhy/)
