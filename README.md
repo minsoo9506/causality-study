@@ -38,13 +38,13 @@
 - 11 인과추론과 예측방법론의 차이, 실증연구에서의 빅데이터와 머신러닝의 역할, 인과추론에서의 머신러닝의 활용, 인과추론 기반의 예측 모델링 평가
 - 13 머신러닝의 해석 가능성과 인과추론, 인과추론을 위한 머신러닝 모델
 - 14 신약 개발에서의 인과추론의 역할과 한계, 머신러닝을 활용한 heterogeneity in Treatment effect
-- 15 인과적 의사결정, Prescriptive Analytics, (이제 이거 들어볼 차례) Presciptive Analytics 연구사례
 
 </details>
 
 <details>
     <summary>Causal Inference for the Brave and True</summary>
 
+- [My summary](https://github.com/minsoo9506/causality-study/tree/master/Causal_Inference_for_the_Brave_and_True_practice)
 - 01 Introduction to Causality
 - 02 Randomized Experiments
 - 03 Stats review
@@ -57,6 +57,11 @@
 - 10 Matching
 - 11 Propensity Score
 - 12 Doubly Robust Estimaion
+- 13 Difference In Difference
+- 14 Panel Data and Fixed Effects
+- 15 Synthtic Control
+- 16 Regression Discontinuity Design
+- 18 Heterogeneous Treatment Effects and Personalization
 
 </details>
 
