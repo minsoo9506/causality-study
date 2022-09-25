@@ -96,10 +96,8 @@
 
 # Applied Project
 
-- [DoWhy tutorial](./applied_project/DoWhy/tutorial)
-- [DoWhy example](./applied_project/DoWhy/example/)
-- [Heterogeneous treatment effect estimation (T-learner) tutorial](<./applied_project/Heterogeneous_treatment_effect_estimation/metaLearner(T-learner).ipynb>)
-- [Uplift modeling practice](https://github.com/minsoo9506/uplift)
+- [DoWhy tutorial](./DoWhy_tutorial)
+- [Heterogeneous Treatment Effect Estimation](./heterogeneous_treatment_effect_estimation)
 
 # Reference
 
