@@ -1,13 +1,14 @@
 # causality study
----
 
 ### Index
+
 - [Lecture, Book](#lecture-book)
 - [Paper Read](#paper-read)
-- [Personal Project](#personal-project)
+- [Applied Project](#Applied-project)
 - [Reference](#reference)
 
 # Lecture, Book
+
 <details>
     <summary>Brady Neal - Causal Inference</summary>
 
@@ -25,7 +26,7 @@
   - Causal Discovery from Interventions
   - Transfer Learning and Transportability
   - Counterfactuals and Mediation
-</details>    
+  </details>
 
 <details>
     <summary>Korea Summer Session on Causal Inference 2021</summary>
@@ -74,6 +75,7 @@
 ![method_summary](./method_summary.png)
 
 # Paper Read
+
 <details>
     <summary>Heterogeneous treatment effect estimation, uplift</summary>
 
@@ -92,12 +94,15 @@
 
 </details>
 
-# Personal Project
-- [DoWhy tutorial](Applied%20Project/DoWhy)
-- [Heterogeneous treatment effect estimation tutorial](Applied%20Project/Heterogeneous_treatment_effect_estimation)
+# Applied Project
+
+- [DoWhy tutorial](./applied_project/DoWhy/tutorial)
+- [DoWhy example](./applied_project/DoWhy/example/)
+- [Heterogeneous treatment effect estimation (T-learner) tutorial](<./applied_project/Heterogeneous_treatment_effect_estimation/metaLearner(T-learner).ipynb>)
 - [Uplift modeling practice](https://github.com/minsoo9506/uplift)
 
 # Reference
+
 - [Brady Neal - Causal Inference](https://www.youtube.com/c/BradyNealCausalInference/playlists)
 - [인과추론의 데이터과학](https://www.youtube.com/c/%EC%9D%B8%EA%B3%BC%EC%B6%94%EB%A1%A0%EC%9D%98%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B3%BC%ED%95%99/playlists)
 - [EconML/CausalML KDD 2021 Tutorial](https://causal-machine-learning.github.io/kdd2021-tutorial/)
