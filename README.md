@@ -2,12 +2,12 @@
 
 ### Index
 
-- [Lecture, Book](#lecture-book)
+- [Study Materials](#study-materials)
 - [Paper Read](#paper-read)
 - [Applied Project](#Applied-project)
-- [Reference](#reference)
+- [Other Resources](#other-resources)
 
-# Lecture, Book
+# Study Materials
 
 <details>
     <summary>Brady Neal - Causal Inference</summary>
@@ -81,9 +81,9 @@
 
 - (to read, Double machine learning) Double machine learning for treatment and causal parameters (2016)
 - (to read, metalearner) Metalearners for estimation heterogeneous treatment effects using machine learning (2019)
-- (to read, tree model) Estimation and Inference of Heterogeneous Treatment Effects using Random Forests
+- (to read, tree model) Estimation and Inference of Heterogeneous Treatment Effects using Random Forests, 2018
 - (to read, balanced representation learning) Estimation individual treatment effect: generalization bounds and algorithms (2018)
-- (to read) Causal Inference and Uplift Modeling A review of the literature
+- (to read) Causal Inference and Uplift Modeling A review of the literature, 2016
 </details>
 
 <details>
@@ -99,11 +99,16 @@
 - [DoWhy tutorial](./DoWhy_tutorial)
 - [Heterogeneous Treatment Effect Estimation](./heterogeneous_treatment_effect_estimation)
 
-# Reference
+# Other Resources
+
+### Reference
 
 - [Brady Neal - Causal Inference](https://www.youtube.com/c/BradyNealCausalInference/playlists)
 - [인과추론의 데이터과학](https://www.youtube.com/c/%EC%9D%B8%EA%B3%BC%EC%B6%94%EB%A1%A0%EC%9D%98%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B3%BC%ED%95%99/playlists)
 - [EconML/CausalML KDD 2021 Tutorial](https://causal-machine-learning.github.io/kdd2021-tutorial/)
 - [Causal Inference for the Brave and True](https://matheusfacure.github.io/python-causality-handbook/01-Introduction-To-Causality.html)
 - [Dowhy 가이드 실습 pap gitbook](https://playinpap.gitbook.io/dowhy/)
+
+### Article
+
 - [A Survey of Causal Inference Applications at Netflix](https://netflixtechblog.com/a-survey-of-causal-inference-applications-at-netflix-b62d25175e6f)
