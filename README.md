@@ -79,11 +79,12 @@
 <details>
     <summary>Heterogeneous treatment effect estimation, uplift</summary>
 
+- Causal Inference and Uplift Modeling A review of the literature, 2016 [`review`](./paper_review/Causal%20Inference%20and%20Uplift%20Modeling%20A%20review%20of%20the%20literature.md)
 - (to read, Double machine learning) Double machine learning for treatment and causal parameters (2016)
 - (to read, metalearner) Metalearners for estimation heterogeneous treatment effects using machine learning (2019)
 - (to read, tree model) Estimation and Inference of Heterogeneous Treatment Effects using Random Forests, 2018
 - (to read, balanced representation learning) Estimation individual treatment effect: generalization bounds and algorithms (2018)
-- (to read) Causal Inference and Uplift Modeling A review of the literature, 2016
+
 </details>
 
 <details>
