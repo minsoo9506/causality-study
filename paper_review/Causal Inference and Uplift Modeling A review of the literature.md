@@ -50,3 +50,25 @@ $$
 - 실제 데이터를 사용한 예시는 [여기](https://github.com/minsoo9506/causality-study/blob/master/Causal_Inference_for_the_Brave_and_True_practice/20_Plug_and_Play_Estimators.ipynb)에서 확인할 수 있다.
 
 ## Modeling Uplift Directly
+
+- 다양한 ML 모델을 이용하여 treatment effect를 추정하는 방법이다.
+- 지금은 트리계열이 가장 많이 사용된다.
+  - split criterion choice에 따라 다양한 모델들이 발표되었다.
+
+# Evaluation
+
+## Traditional Uplift Metrics
+
+- observation에서 control, treatment outcome을 모두 확인할 수 없기 때문에 loss를 measure하기 어렵다.
+- 그래서 대부분 uplift bins, uplift curves를 사용한다.
+- 논문의 설명과 그림을 같이 보면 좋다.
+
+## Metric Based on $Y^*$
+
+위에서 transformation 방법론을 토대로 MSE loss function을 쓸 수 있을까?
+
+$$MSE(Y^*_i, \hat{\tau}) = \sum_i^n \frac{1}{n}(Y_i^* - \hat{\tau}_i)^2$$
+
+위의 식을 통해서 아래의 식을 approximation하는 것이 가능할까?
+
+$$MSE(\tau_i, \hat{\tau}_i) = \sum_i^n \frac{1}{n}(\tau_i - \hat{\tau}_i)^2$$
