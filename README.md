@@ -60,16 +60,25 @@
   - 12 Doubly Robust Estimaion
   - 13 Difference In Difference
   - 14 Panel Data and Fixed Effects
-  - 15 Synthtic Control
+  - 15 Synthetic Control
   - 16 Regression Discontinuity Design
   - 18 Heterogeneous Treatment Effects and Personalization
-  - 19 Evaluatin Causal Models
+  - 19 Evaluation Causal Models
   - 20 Plug and Play Estimators
 
 </details>
 
 <details>
     <summary>Korea Summer Workshop on Causal Inference 2022 (Bootcamp시리즈)</summary>
+
+- Bootcamp 1: 인과추론과 예측 방법론의 차이, 인과추론의 어려움과 인과추론 전략
+- Bootcamp 2: 잠재적결과 프레임워크, 무작위 통제실험, 인과추론 관점에서의 회귀분석, 매칭과 역확률가중치
+- Bootcamp 3: 디자인 기반의 인과추론, 준실험 분석방법론, 이중차분법, 가상의 통제집단
+- Bootcamp 4: 도구변수, 인과추론 관점에서의 도구변수, 회귀 불연속, 통제함수와 선택모형
+- Bootcamp 5: 인과 그래프, 디자인 기반의 인과추론에서의 인과 그래프 활용, 구조적 인과모형
+- Industry, 프로덕트 애널리틱스에서의 인과추론의 활용 사례
+- Health Informatics, 머신러닝을 활용한 이질적 인과효과 추정
+
 </details>
 
 ![method_summary](./method_summary.png)
@@ -79,10 +88,10 @@
 <details>
     <summary>Heterogeneous treatment effect estimation, uplift</summary>
 
-- Causal Inference and Uplift Modeling A review of the literature, 2016 [`review`](./paper_review/Causal%20Inference%20and%20Uplift%20Modeling%20A%20review%20of%20the%20literature.md)
-- (to read, Double machine learning) Double machine learning for treatment and causal parameters (2016)
-- (to read, metalearner) Metalearners for estimation heterogeneous treatment effects using machine learning (2019)
-- (to read, tree model) Estimation and Inference of Heterogeneous Treatment Effects using Random Forests, 2018
+- [Causal Inference and Uplift Modeling A review of the literature, 2016](https://proceedings.mlr.press/v67/gutierrez17a/gutierrez17a.pdf) [`review`](./paper_review/Causal%20Inference%20and%20Uplift%20Modeling%20A%20review%20of%20the%20literature.md)
+- [Double machine learning for treatment and causal parameters, 2016](https://www.econstor.eu/bitstream/10419/149795/1/869216953.pdf)
+- [Metalearners for estimation heterogeneous treatment effects using machine learning, 2019](https://www.pnas.org/doi/epdf/10.1073/pnas.1804597116)
+- [Estimation and Inference of Heterogeneous Treatment Effects using Random Forests, 2018](http://bayes.acs.unt.edu:8083/BayesContent/class/rich/articles/Estimation_And_Inference_Of_Heterogeneous_Treatment_Effects_Using_Random_Forests.pdf)
 - (to read, balanced representation learning) Estimation individual treatment effect: generalization bounds and algorithms (2018)
 
 </details>
@@ -98,7 +107,8 @@
 # Applied Project
 
 - [DoWhy tutorial](./DoWhy_tutorial)
-- [Heterogeneous Treatment Effect Estimation](./heterogeneous_treatment_effect_estimation)
+- [Heterogeneous Treatment Effect Estimation tutorial](./heterogeneous_treatment_effect_estimation_tutorial)
+  - metalearner (T-learner)
 
 # Other Resources
 
@@ -113,3 +123,4 @@
 ### Article
 
 - [A Survey of Causal Inference Applications at Netflix](https://netflixtechblog.com/a-survey-of-causal-inference-applications-at-netflix-b62d25175e6f)
+- [Causal inference 123, Microsoft Shujuan(Jane) Huang 2020](https://medium.com/@shujuanhuang)
