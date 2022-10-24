@@ -72,3 +72,5 @@ $$MSE(Y^*_i, \hat{\tau}) = \sum_i^n \frac{1}{n}(Y_i^* - \hat{\tau}_i)^2$$
 위의 식을 통해서 아래의 식을 approximation하는 것이 가능할까?
 
 $$MSE(\tau_i, \hat{\tau}_i) = \sum_i^n \frac{1}{n}(\tau_i - \hat{\tau}_i)^2$$
+
+해당 논문에서는 이에 대히 수식적으로 증명하고 있다.
