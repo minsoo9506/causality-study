@@ -106,9 +106,11 @@
 
 # Applied Project
 
+- [blog](https://minsoo9506.github.io/categories/causality/)
 - [DoWhy tutorial](./DoWhy_tutorial)
 - [Heterogeneous Treatment Effect Estimation tutorial](./heterogeneous_treatment_effect_estimation_tutorial)
   - metalearner (T-learner)
+  - metalearner (X-learner)
 
 # Other Resources
 
@@ -124,3 +126,4 @@
 
 - [A Survey of Causal Inference Applications at Netflix](https://netflixtechblog.com/a-survey-of-causal-inference-applications-at-netflix-b62d25175e6f)
 - [Causal inference 123, Microsoft Shujuan(Jane) Huang 2020](https://medium.com/@shujuanhuang)
+- [Using Causal Inference to Improve the Uber User Experience, 2019](https://www.uber.com/en-KR/blog/causal-inference-at-uber/)
