@@ -2,11 +2,15 @@
 
 ### Index
 
+- [causality study](#causality-study)
+    - [Index](#index)
 - [Study](#study)
 - [Paper Read](#paper-read)
 - [Practice](#practice)
 - [Project](#project)
 - [Other Resources](#other-resources)
+    - [Reference](#reference)
+    - [Article](#article)
 
 # Study
 
@@ -82,6 +86,18 @@
 
 </details>
 
+<details>
+    <summary>Causal Inference and Discovery in Python</summary>
+
+- 책에 있는 실습 코드 따라하기
+- 00 dowhy 사용법
+- 01 match (dowhy)
+- 02 metalearner (dowhy, econml)
+- 03 DML (dowhy, econml)
+- 04 CausalForest (dowhy, econml)
+
+</details>
+
 ![method_summary](./method_summary.png)
 
 # Paper Read
@@ -124,6 +140,7 @@
 - [EconML/CausalML KDD 2021 Tutorial](https://causal-machine-learning.github.io/kdd2021-tutorial/)
 - [Causal Inference for the Brave and True](https://matheusfacure.github.io/python-causality-handbook/01-Introduction-To-Causality.html)
 - [Dowhy 가이드 실습 pap gitbook](https://playinpap.gitbook.io/dowhy/)
+- [Causal-Inference-and-Discovery-in-Python](https://github.com/PacktPublishing/Causal-Inference-and-Discovery-in-Python)
 
 ### Article
 
