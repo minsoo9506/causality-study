@@ -95,6 +95,7 @@
 - 02 metalearner (dowhy, econml)
 - 03 DML (dowhy, econml)
 - 04 CausalForest (dowhy, econml)
+- 05 uplift (econml)
 
 </details>
 
