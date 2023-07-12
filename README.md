@@ -96,6 +96,8 @@
 - 03 DML (dowhy, econml)
 - 04 CausalForest (dowhy, econml)
 - 05 uplift (econml)
+- 06 synthetic control (causalpy)
+- 07 causal discovery (gCastle)
 
 </details>
 
