@@ -9,8 +9,8 @@
 - [Practice](#practice)
 - [Project](#project)
 - [Other Resources](#other-resources)
+    - [Industry](#industry)
     - [Reference](#reference)
-    - [Article](#article)
 
 # Study
 
@@ -136,6 +136,17 @@
 
 # Other Resources
 
+### Industry
+- Netflix
+  - [A Survey of Causal Inference Applications at Netflix](https://netflixtechblog.com/a-survey-of-causal-inference-applications-at-netflix-b62d25175e6f)
+- Uber
+  - [Using Causal Inference to Improve the Uber User Experience, 2019](https://www.uber.com/en-KR/blog/causal-inference-at-uber/)
+- 넥슨
+  - [업리프트 모델링을 통해 게임 광고 전환율 향상시키기, 2023](https://www.intelligencelabs.tech/372bcb48-af74-4a4f-a2b5-57df9e45fcb9)
+- 네이버페이
+  - [Uplift Modeling을 통한 마케팅 비용 최적화 (with Multiple Treatments), 2024](https://medium.com/naverfinancial/uplift-modeling%EC%9D%84-%ED%86%B5%ED%95%9C-%EB%A7%88%EC%BC%80%ED%8C%85-%EB%B9%84%EC%9A%A9-%EC%B5%9C%EC%A0%81%ED%99%94-with-multiple-treatments-5e4e3824b9df)
+
+
 ### Reference
 
 - [Brady Neal - Causal Inference](https://www.youtube.com/c/BradyNealCausalInference/playlists)
@@ -144,10 +155,5 @@
 - [Causal Inference for the Brave and True](https://matheusfacure.github.io/python-causality-handbook/01-Introduction-To-Causality.html)
 - [Dowhy 가이드 실습 pap gitbook](https://playinpap.gitbook.io/dowhy/)
 - [Causal-Inference-and-Discovery-in-Python](https://github.com/PacktPublishing/Causal-Inference-and-Discovery-in-Python)
-
-### Article
-
-- [A Survey of Causal Inference Applications at Netflix](https://netflixtechblog.com/a-survey-of-causal-inference-applications-at-netflix-b62d25175e6f)
-- [Causal inference 123, Microsoft Shujuan(Jane) Huang 2020](https://medium.com/@shujuanhuang)
-- [Using Causal Inference to Improve the Uber User Experience, 2019](https://www.uber.com/en-KR/blog/causal-inference-at-uber/)
 - [For effective treatment of churn, don’t predict churn, 2019](https://medium.com/bigdatarepublic/for-effective-treatment-of-churn-dont-predict-churn-58328967ec4f)
+- [Causal inference 123, Microsoft Shujuan(Jane) Huang 2020](https://medium.com/@shujuanhuang)
